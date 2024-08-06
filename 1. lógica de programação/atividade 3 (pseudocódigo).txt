@@ -57,3 +57,4 @@ escreva ("levante o copo delicadamente e leve-o em direção a sua boca, encoste
 escreva ("Incline o copo em direção a sua boca, fazendo com que o liquido adentre-a, dê um gole, engula o achocolatado")
   copo = 0
 
+Fim algorítimo
