@@ -1,0 +1,59 @@
+inicio
+ caxdl = 0;
+escreva fhiopfsd
+caixl  1;
+
+algoritimo "Como fazer um achocolatado e tomar"
+var
+  booleam
+  0 = false
+  1 = true
+obj
+  armariodecopos, copo, mesa, geladeira, caixadeleite, armariodecomidas,
+  chocolateempo, gavetadetalheres, colher.
+
+inicio
+
+escreva ("Ande até o armário de copos, pare em frente ao armário de copos, abra o armário de copos com a mão direita")
+  armariodecopos = 1
+escreva ("Pegue um copo com a mão esquerda, retire o copo do armário com a mão esquerda, feche o armário com a mão direita")
+  armariodecopos = 0
+escreva ("Ande até a mesa ainda segurando o copo, pare em frente a mesa, estique sua mão calmamente até que o copo encoste a superfície da mesa, coloque o copo sob a mesa cuidadosamente")
+escreva ("Ande até a geladeira, pare em frente a geladeira, abra a geladeira com a mão direita")
+  geladeira = 1
+escreva ("Pegue a caixa de leite com a mão esquerda, retire a caixa de leite da geladeira")
+escreva ("Feche a geladeira com a mão direita")
+  geladeira = 0
+escreva ("Ande até a mesa ainda segurando o leite, pare em frente a mesa, estique sua mão calmamente até que a caixa de leite encoste a superfície da mesa, coloque a caixa de leite sob a mesa cuidadosamente")
+escreva ("Ande até o armário de comidas, pare em frente ao armário de comidas, abra o armário de comidas com a mão direita")
+  armariodecomidas = 1
+escreva ("Pegue o chocolate em pó com a mão esquerda, retire o chocolate em pó do armário com a mão esquerda")
+escreva ("Feche o armário com a mão direita")
+  armariodecomidas = 0
+escreva ("Ande até a mesa, pare em frente a mesa, estique sua mão calmamente até que o chocolate em pó encoste a superfície da mesa, coloque o chocolate em pó sob a mesa cuidadosamente")
+escreva ("Ande até a gaveta de talheres que se encontra um armário ao lado do armário de copos, pare em frente a gaveta de talheres, abra a gaveta de talheres com a mão direita")
+  gavetadetalheres = 1
+escreva ("Pegue uma colher com a mão esquerda, retire a colher da gaveta com a mão esquerda")
+escreva ("Feche a gaveta de talheres com a mão direita")
+  gavetadetalheres = 0
+escreva ("Ande até a mesa, pare em frente a mesa, estique sua mão calmamente até que colher encoste a superfície da mesa, coloque a colher sob a mesa cuidadosamente")
+escreva ("Estique sua mão direita em direção a caixa de leite, pegue a caixa de leite com a mão direita")
+escreva ("Com a mão esquerda, posicione seus dedos na tampa da caixa de leite, gire a tampa da caixa de leite até que ela abra")
+  caixadeleite = 1
+escreva ("Coloque cuidadosamente a tampa da caixa de leite sob a superfície da mesa")
+escreva ("Com a mão esquerda, pegue o pote de achocolatado em pó, gire a tampa utilizando a mão direita até que abra a embalagem")
+  chocolateempo = 1
+escreva ("Levante levemente a caixa de leite aberta com a mão direita, com a mão esquerda, segure o copo ainda sob a mesa")
+  copo = 0
+escreva ("Incline a caixa de leite LEVEMENTE em direção ao copo, despeje o leite que estava dentro da caixa no copo, encha o copo até onde desejar, logo após adicione um pouco de chocolate em pó utilizando a colher")
+  copo = 1
+escreva ("Coloque a caixa de leite sob a mesa calmamente usando a mão direita, estique sua mão esquerda em direção a tampa da caixa de leite, pegue a tampa utilizando a mão esquerda, pegue a caixa de leite utilizando a mão direita")
+escreva ("Leve a tampa até seu local na caixa de leite, gire a tampa até que feche")
+  caixadeleite = 0
+escreva ("Utilize a mão esquerda para pegar o pote de chocolate em pó, com a mão direita, leve-a de encontro a tampa do choloate em pó, leve a tampa do chocolate em pó até ele, e gire-a até que feche")
+  chocolateempo = 0
+escreva ("Mexa a colher dentro do copo levemente até que o chocolate em pó se dissolva no leite")
+escreva ("levante o copo delicadamente e leve-o em direção a sua boca, encoste o copo nos seus lábios")
+escreva ("Incline o copo em direção a sua boca, fazendo com que o liquido adentre-a, dê um gole, engula o achocolatado")
+  copo = 0
+
