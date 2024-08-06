@@ -1,8 +1,3 @@
-inicio
- caxdl = 0;
-escreva fhiopfsd
-caixl  1;
-
 algoritimo "Como fazer um achocolatado e tomar"
 var
   booleam
